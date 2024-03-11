@@ -1,0 +1,60 @@
+[33mcommit 25a3f54d3b82eb1ce7dddfdcd099f4a135394ca7[m[33m ([m[1;36mHEAD -> [m[1;32mbackupb[m[33m)[m
+Merge: d580ded 1768718
+Author: Supun Manage <supun@ymail.com>
+Date:   Mon Mar 11 11:17:03 2024 +0530
+
+    Merge branch 'fetch_t' of github.com:esupun/lab2 into backupb
+
+[33mcommit 1768718e45e72ef292cf8ba1455c775b821637fc[m[33m ([m[1;31morigin/fetch_t[m[33m, [m[1;32mfetch_t[m[33m)[m
+Author: esupun <96661355+esupun@users.noreply.github.com>
+Date:   Mon Mar 11 11:14:37 2024 +0530
+
+    Update hosts.txt
+
+[33mcommit ae763389a1c1d6bd1f049ac30bdf2870e84d5542[m
+Author: esupun <96661355+esupun@users.noreply.github.com>
+Date:   Mon Mar 11 11:11:04 2024 +0530
+
+    Create jlab1.py
+
+[33mcommit e6766246243faed20160cd33205c35695dcfb6b3[m
+Author: esupun <96661355+esupun@users.noreply.github.com>
+Date:   Mon Mar 11 11:05:52 2024 +0530
+
+    Create python6.py
+
+[33mcommit d580dedc056656ad0fd708f455313c5c70ef148f[m
+Author: Supun Manage <supun@ymail.com>
+Date:   Mon Mar 11 10:41:12 2024 +0530
+
+    python5.py
+
+[33mcommit 42e307e4e3a8ad39fe12eb8c067e748e41a179a1[m
+Author: esupun <96661355+esupun@users.noreply.github.com>
+Date:   Mon Mar 11 10:37:12 2024 +0530
+
+    Create python4.py
+
+[33mcommit 9dd4c3d27c4893085d552312d2776e36237e4fd6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Supun Manage <supun@ymail.com>
+Date:   Mon Mar 11 10:32:37 2024 +0530
+
+    mycode3.py
+
+[33mcommit 8e29c7972ea97db3a23e7f459868f19055c19b63[m
+Author: Supun Manage <supun@ymail.com>
+Date:   Mon Mar 11 10:30:36 2024 +0530
+
+     Please enter the commit message for your changes. Lines starting
+
+[33mcommit eb886154f10ea017e410da87211714737e83b194[m[33m ([m[1;32m0r[m[33m)[m
+Author: Supun Manage <supun@ymail.com>
+Date:   Mon Mar 11 09:58:43 2024 +0530
+
+    add mycode1
+
+[33mcommit a128eb845940770d5841cd92962f468e0435d235[m
+Author: esupun <96661355+esupun@users.noreply.github.com>
+Date:   Mon Mar 11 09:50:49 2024 +0530
+
+    Create hosts.txt
